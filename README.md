@@ -6,5 +6,5 @@
 - 🔭 I’m currently working on connection Keycloak and NIA
 - 🌱 I’m currently learning Java, HTML, CSS
 - 💬 Ask me how to add new SeP in Keycloak
-- 📫 Write me a email on carlos-jcu at pm.me, I will be happy to chat with you
+- 📫 Write me a email on **carlos-jcu at pm.me**, I will be happy to chat with you
 - Github profile is empty now, but I will share more projects and learning stuff (hope so  :innocent:)
