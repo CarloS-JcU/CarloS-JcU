@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi there 👋, I am Carlos, your new friend</h1>
 <p> I am not excellent programmer, just learning new stuff :wink: </p>
-<p> I worked with Keycloak and <a href="https://www.eidentita.cz/Home">NIA</a> and want continue to help czech universities. </p>
+<p> I worked with Keycloak and <a href="https://www.eidentita.cz/Home">NIA</a> and want continue to help czech eGovernment. </p>
 
 - 🔭 I’m currently working on connection Keycloak and NIA
 - 🌱 I’m currently learning Java, HTML, CSS
